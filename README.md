@@ -49,10 +49,11 @@ And if not there, look for me in the mountains ⛰️
 
 ## 📊 My GitHub Vibes
 
-![Debarghya's GitHub stats](https://github-readme-stats.vercel.app/api?username=whydebarghya&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whydebarghya&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?username=whydebarghya&theme=tokyonight&hide_border=false)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=whydebarghya&theme=tokyo-night)  
+![Debarghya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=whydebarghya&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whydebarghya&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=whydebarghya&theme=tokyonight&hide_border=false)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=whydebarghya&theme=tokyo-night)
+
 
 ---
 
