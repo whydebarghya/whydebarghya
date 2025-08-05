@@ -49,8 +49,10 @@ And if not there, look for me in the mountains ⛰️
 
 ## 📊 My GitHub Vibes
 
-![Debarghya's GitHub stats](https://github-readme-stats.vercel.app/api?username=cap-codeDeb&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cap-codeDeb&layout=compact&theme=tokyonight)  
+![Debarghya's GitHub stats](https://github-readme-stats.vercel.app/api?username=cap-CodeDeb&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cap-CodeDeb&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=cap-CodeDeb&theme=tokyonight&hide_border=false)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cap-CodeDeb&theme=tokyo-night)  
 
 ---
 
