@@ -49,10 +49,10 @@ And if not there, look for me in the mountains ⛰️
 
 ## 📊 My GitHub Vibes
 
-![Debarghya's GitHub stats](https://github-readme-stats.vercel.app/api?username=cap-CodeDeb&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cap-CodeDeb&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=cap-CodeDeb&theme=tokyonight&hide_border=false)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cap-CodeDeb&theme=tokyo-night)  
+![Debarghya's GitHub stats](https://github-readme-stats.vercel.app/api?username=whydebarghya&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whydebarghya&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=whydebarghya&theme=tokyonight&hide_border=false)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=whydebarghya&theme=tokyo-night)  
 
 ---
 
@@ -67,7 +67,7 @@ And if not there, look for me in the mountains ⛰️
 
 ## 🌐 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/debarghya-dutta/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/whydebarghya/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:debarghyadutta36@gmail.com)  
 
 ---
