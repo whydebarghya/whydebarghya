@@ -2,7 +2,7 @@
 
 > _"Turning ☕ coffee into clean, scalable code since 2022."_  
 
-💼 **Application Developer @ IBM**  
+💼 **Application Programmer @ IBM**  
 🌎 Based in **Bengaluru, India**  
 🎯 Passionate about **Java, Spring Boot, Cloud, and Full-Stack Magic**  
 
