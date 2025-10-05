@@ -47,6 +47,11 @@ And if not there, look for me in the mountains ⛰️
 
 ---
 
+## 📄 My Resume
+- [Click to View](https://drive.google.com/file/d/1k3DiXb6sxwJEou5AJOGX7cZBN49kYgu0/view?usp=sharing)
+
+---
+
 ## 📊 My GitHub Vibes
 
 ![Debarghya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=whydebarghya&show_icons=true&theme=tokyonight)
