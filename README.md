@@ -14,7 +14,7 @@ And if not there, look for me in the mountains ⛰️
 
 ## ⚡ About Me
 
-- 🏗️ **2+ years** of building **enterprise applications** in telecom (AT&T projects)  
+- 🏗️ **3+ years** of building **enterprise applications** in telecom (AT&T projects)  
 - 🚀 Experienced in **cloud migration** and **production support**  
 - 🖥️ Love **React + Spring Boot** full-stack adventures  
 - 🛠️ Known for **turning complex business needs into smooth tech solutions**  
@@ -28,7 +28,7 @@ And if not there, look for me in the mountains ⛰️
 `Java 8/17` • `Spring Boot` • `JSP` • `React`  
 
 **Databases & Cloud**  
-`Oracle SQL` • `PostgreSQL` • `Azure (basics)`  
+`Oracle SQL` • `PostgreSQL` • `AWS (basics)`  
 
 **DevOps & Monitoring**  
 `Kubernetes` • `Jenkins` • `Kibana` • `CI/CD pipelines`  
@@ -67,6 +67,7 @@ And if not there, look for me in the mountains ⛰️
 
 ## 🏅 Badges of Honor
 
+- 🎖 **Oracle Certified Associate, Java SE 8 Programmer** (2026)
 - 🎖 **Oracle Database SQL Certified Associate** (2024)  
 - ☁ **Microsoft Certified: Azure Fundamentals** (2023)  
 - 🤖 **IBM WatsonX Essentials & Copilot Summit** (2024)  
