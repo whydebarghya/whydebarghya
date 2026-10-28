@@ -1,12 +1,12 @@
-# Hey there, I'm Debarghya Dutta 👨‍💻✨
+# Hey there, I'm Debarghya 👨‍💻✨
 
 > _"Turning ☕ coffee into clean, scalable code since 2022."_  
 
-💼 **Application Programmer @ IBM**  
+💼 **Senior Application Programmer @ Fioneer**  
 🌎 Based in **Bengaluru, India**  
 🎯 Passionate about **Java, Spring Boot, Cloud, and Full-Stack Magic**  
 
-I spend my days building robust backends, dabbling in frontend wizardry, and helping applications move to the ☁ **cloud (Azure)**.  
+I spend my days building robust backends, dabbling in frontend wizardry, and helping applications move to the ☁ **cloud (AWS)**.  
 When I’m not coding, I’m probably mentoring junior devs, automating something, or experimenting with new tech.  
 And if not there, look for me in the mountains ⛰️
 
@@ -14,7 +14,7 @@ And if not there, look for me in the mountains ⛰️
 
 ## ⚡ About Me
 
-- 🏗️ **3+ years** of building **enterprise applications** in telecom (AT&T projects)  
+- 🏗️ **4 years** of building **enterprise applications**
 - 🚀 Experienced in **cloud migration** and **production support**  
 - 🖥️ Love **React + Spring Boot** full-stack adventures  
 - 🛠️ Known for **turning complex business needs into smooth tech solutions**  
@@ -28,7 +28,7 @@ And if not there, look for me in the mountains ⛰️
 `Java 8/17` • `Spring Boot` • `JSP` • `React`  
 
 **Databases & Cloud**  
-`Oracle SQL` • `PostgreSQL` • `AWS (basics)`  
+`Oracle SQL` • `PostgreSQL` • `AWS`  
 
 **DevOps & Monitoring**  
 `Kubernetes` • `Jenkins` • `Kibana` • `CI/CD pipelines`  
@@ -40,7 +40,7 @@ And if not there, look for me in the mountains ⛰️
 
 ## 🎯 What I'm Up To
 
-- ☁ Moving on-prem apps to **Azure**  
+- ☁ Moving on-prem apps to **Cloud**  
 - 🔧 Strengthening **production-ready backend services**  
 - 📈 Improving **CI/CD pipelines** for faster, cleaner releases  
 - 🌱 Experimenting with **full-stack features in React + Spring Boot**  
@@ -68,6 +68,8 @@ And if not there, look for me in the mountains ⛰️
 ## 🏅 Badges of Honor
 
 - 🎖 **Oracle Certified Associate, Java SE 8 Programmer** (2026)
+- 🎖 **AWS Certified Developer – Associate** (2026)
+- 🎖 **Claude Certified Developer - Foundations** (2026)
 - 🎖 **Oracle Database SQL Certified Associate** (2024)  
 - ☁ **Microsoft Certified: Azure Fundamentals** (2023)  
 - 🤖 **IBM WatsonX Essentials & Copilot Summit** (2024)  
